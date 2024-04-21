@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I am Pratham Alpeshbhai Patel
 
+Enthusiastic Full Stack Software Developer, constantly expanding skills 
+and embracing new challenges in the dynamic world of software developmen
+
+Software Developer Intern - [Samudra Technologies](https://www.samudratech.com/)
+B.Tech. CE 2020-2024 [Dharmsinh Desai University](https://www.ddu.ac.in/) 
 <!--
 **pratham2313/pratham2313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
